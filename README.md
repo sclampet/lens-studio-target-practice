@@ -19,6 +19,4 @@ Simply clone this repo and open the .lsproj file. Lens Studio can be a bit finic
 Feel free to send any questions or concerns my way! Don't be afraid to fork and submit PRs with any improvements either!!
 
 
-<video width="320" height="240" controls>
-  <source src="./videos/targetPractice.mov" type="video/mov">
-</video>
+![Demo](https://user-images.githubusercontent.com/17322126/57732567-97f41200-765a-11e9-81ee-fa850f837178.gif)
