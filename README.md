@@ -4,7 +4,7 @@
 
 # Overview
 
-The following is an example project that I've built enitrely in Lens Studio. THe user taps their screen in order to throw a snowball at a stationary target, a simple cube in this case, based on the position of an arrow that moves horizontally. Currently, all you'll see happen is a "Hit" or a "Miss" logged accordingly, as well as the current position of the snowball as it is thrown.
+The following is an example project that I've built entirely in Lens Studio. The user taps their screen in order to throw a snowball at a stationary target, a simple cube in this case, based on the position of an arrow that moves horizontally. Currently, all you'll see happen is a "Hit" or a "Miss" logged accordingly, as well as the current position of the snowball as it is thrown.
 
 # Example
 
