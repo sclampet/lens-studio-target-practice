@@ -1,4 +1,4 @@
-# Loading Screens Web AR Template - 8thWall
+# Lens Studio Target Practice Example Project
 
 # Overview
 
