@@ -21,5 +21,6 @@ I built this script while working on Sony's Goosebumps 2 "Snowball fight with Sl
 * [Sony's Goosebumps 2](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=975173dcd0ba40f39d978c9e55ff73b3&metadata=01)
 ![Demo](https://user-images.githubusercontent.com/17322126/57733830-b14a8d80-765d-11e9-9e33-1ebdfa6ecc92.gif)
 
+# Demo
 
 ![Demo](https://user-images.githubusercontent.com/17322126/57732567-97f41200-765a-11e9-81ee-fa850f837178.gif)
