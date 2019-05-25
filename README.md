@@ -14,7 +14,7 @@ Feel free to send any questions or concerns my way! Don't be afraid to fork and 
 
 Email: scott@tao.team
 
-# Example
+# Live Example
 
 I built this script while working on Sony's Goosebumps 2 "Snowball fight with Slappy" game they release over christmas 2018. There weren't any resources at the time for building this type of interactivity. Check it out using the link below!
 
